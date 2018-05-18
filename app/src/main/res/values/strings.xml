@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstKotlin</string>
+    <string name="welcome_to_game">Welcome to Game!</string>
+    <string name="play_and_win">Play and Win!</string>
+</resources>
